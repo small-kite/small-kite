@@ -1,6 +1,6 @@
 
 
-<h1 div align="center">Hi there 👋</h1>
+<h2 div align="center">Hi there 👋</h2>
 
 
 <!--
